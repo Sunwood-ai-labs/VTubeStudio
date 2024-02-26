@@ -1,4 +1,12 @@
-# VTube Studio APIを使ったPythonデモ
+
+<h1>
+<img src="https://raw.githubusercontent.com/Sunwood-ai-labs/VTubeStudio/master/Images/icon.png" height=300px align="right"/>
+PyTuberKit: <br>
+</h1>
+<h2>
+VTube Studio APIを使ったPythonデモ
+</h2>
+
 
 このガイドでは、VTube StudioのAPIを使用して、PythonからVTube Studioを操作する基本的な方法を紹介します。ここでは、VTube Studioとの接続設定、認証プロセス、ホットキーの取得と実行などのデモを行います。
 ## 前提条件
